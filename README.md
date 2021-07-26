@@ -1,4 +1,4 @@
-# :link:  Environment & Around you 
+# :keyboard:  Environment & Around you 
 ```
     id 
 	uname 
@@ -9,22 +9,22 @@
 	watch
 	echo
 ```
-# :link:  Disk space 
+# :keyboard:  Disk space 
 ```
 	df -k
 	du -sk *
 ```
-# :link:  Help
+# :keyboard:  Help
 ```
 	man
 	history
 ```	
-# :link:  Install softwares 
+# :keyboard:  Install softwares 
 ```
 	yum 
 	apt 
 ```
-# :link:  Files & Directories 
+# :keyboard:  Files & Directories 
 ```
 	ls 
 	tree
@@ -47,13 +47,13 @@
 	find 
 	grep
 ```
-# :link:  compress
+# :keyboard:  compress
 ```
 	tar
 	zip/unzip
 	gzip/gunzip
 ```
-# :link:  users/groups - create/modify/delete
+# :keyboard:  users/groups - create/modify/delete
 ```
     useradd 
 	usermod 
@@ -62,7 +62,7 @@
 	su
 	cat /etc/passwd
 ```
-# :link:  processes 
+# :keyboard:  processes 
 ```
     ps 
 	pstree
@@ -74,7 +74,7 @@
 	free
 	ulimit 
 ```
-# :link:  network 
+# :keyboard:  network 
 ```
 	ifconfig 
 	/etc/hosts
@@ -88,7 +88,7 @@
 	route 
 	cat /proc/cpuinfo	
 ```
-# :link:  multiple systems 
+# :keyboard:  multiple systems 
 ```
 	wget 
 	curl 
@@ -97,23 +97,23 @@
 	ssh tunnel 	
 	telnet
 ```
-# :link:  Variables & Defining variables
+# :keyboard:  Variables & Defining variables
 ```	
     .bash_profile
 	source
 	env 
 	export 
 	echo
-	# :link: !/bin/bash
+	# :keyboard: !/bin/bash
 	$SHELL,$USER,$HOME
 ```
-# :link:  Text processing 
+# :keyboard:  Text processing 
 ```
 	xargs
 	awk
 	sed
 ```
-# :link:  system restart
+# :keyboard:  system restart
 ```	
     reboot
 	shutdown -r
