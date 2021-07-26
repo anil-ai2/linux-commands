@@ -1,5 +1,6 @@
 # :link:  Environment & Around you 
-	id
+```
+    id 
 	uname 
 	hostname 
 	clear 
@@ -7,20 +8,24 @@
 	date
 	watch
 	echo
-
+```
 # :link:  Disk space 
+```
 	df -k
 	du -sk *
-
+```
 # :link:  Help
+```
 	man
 	history
-	
+```	
 # :link:  Install softwares 
+```
 	yum 
 	apt 
-
+```
 # :link:  Files & Directories 
+```
 	ls 
 	tree
 	touch
@@ -41,23 +46,25 @@
 	tail
 	find 
 	grep
-
+```
 # :link:  compress
+```
 	tar
 	zip/unzip
 	gzip/gunzip
-	
-	
+```
 # :link:  users/groups - create/modify/delete
-	useradd 
+```
+    useradd 
 	usermod 
 	userdel
 	sudo
 	su
 	cat /etc/passwd
-
+```
 # :link:  processes 
-	ps 
+```
+    ps 
 	pstree
 	pmap
 	kill 
@@ -66,8 +73,9 @@
 	sar
 	free
 	ulimit 
-
+```
 # :link:  network 
+```
 	ifconfig 
 	/etc/hosts
 	netstat -na
@@ -79,29 +87,34 @@
 	dig
 	route 
 	cat /proc/cpuinfo	
-
+```
 # :link:  multiple systems 
+```
 	wget 
 	curl 
 	scp 
 	ssh
 	ssh tunnel 	
 	telnet
-
+```
 # :link:  Variables & Defining variables
-	.bash_profile
+```	
+    .bash_profile
 	source
 	env 
 	export 
 	echo
 	# :link: !/bin/bash
 	$SHELL,$USER,$HOME
-
+```
 # :link:  Text processing 
+```
 	xargs
 	awk
 	sed
-
+```
 # :link:  system restart
-	reboot
+```	
+    reboot
 	shutdown -r
+```
