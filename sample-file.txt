@@ -1,0 +1,22 @@
+line1 - ncodeit nCodeIT 
+line2 - abcd efgh abc abc abc abc 
+line3 - this is line3
+line4 - may be there is a next line4 
+line5 - could there be a line5 line5 or line3 
+line6 - NCODEIT BC
+line7 - once upon a time there was red line
+line8 - the redline stretched from one and to another line
+line9 - then it came across a blue line that didnt look red
+line10 - then the redline realized that the redline is not blue
+line11 - it also thought , are there other colors too ?
+line12 - may be not, it thought while the story is going in line12 , again and again and again 
+line13 - the redline said to itself blueline blueline BLUELINE BluELine BLUEline blueLINE
+line14 - while this whole thing is going on a 
+line15 - greenline passed by looking over the redline
+line16 - all of a sudden the redline thought, how did the blueline become green, and when did it become ?
+line17 - but it liked the greenline , 
+line18 - therefore the redline became the greenline 
+line19 - with the help of blueline
+line20 - but when looked at the mirror , the redline thought, it looked just like greenline and blueline. OOps. 
+### End Of Story - The RedLIne. ###
+
