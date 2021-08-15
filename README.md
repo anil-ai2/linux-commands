@@ -1,3 +1,4 @@
+- This link of Linux commands are part of Udemy course [100 Linux commands for everyone to manage Linux environments](https://www.ncodeit.com)
 # Environment & Around you 
 ```
 id						# identity of the user
@@ -254,10 +255,10 @@ sed 1,5s/nginx/nginx-new/ nginx-deployment.yaml
 	
 ls -ltrh |awk '/sample/ {print}'		# Print the lines which matches with the given pattern
 ls -ltrh |grep sample 
-ls -ltrh |awk '/sample/ {print $5}	# print file sizes only 
-ls -ltrh |awk '{print $5}			# get the file sizes only 
-ls -ltrh |awk '{print $5,$9}		# get only some fields 
-ls -ltrh |awk '{print $9,$5}		# change the order of fields 
+ls -ltrh |awk '/sample/ {print $5}'		# print file sizes only 
+ls -ltrh |awk '{print $5}				# get the file sizes only 
+ls -ltrh |awk '{print $5,$9}			# get only some fields 
+ls -ltrh |awk '{print $9,$5}			# change the order of fields 
 	
 cat /etc/passwd | awk -F: '/nologin/ {print $1,$6}		# users and home directories 
 
