@@ -7,6 +7,7 @@ hostname				# hostname
 clear					# clear the terminal
 uptime					# how long the system is up 
 date					# current date & time
+
 watch	date			# repeat the commands every n seconds
 watch -n5 date 			# change the interval to 5 seconds
 echo "hi nocdeit"		# echo back the input 
