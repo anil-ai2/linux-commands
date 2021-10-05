@@ -1,4 +1,6 @@
 - This link of Linux commands are part of Udemy course [100 Linux commands for everyone to manage Linux environments](https://www.ncodeit.com)
+- practice lab url (single server) - https://www.katacoda.com/ncodeit/scenarios/ncd-custom-ubuntu1804
+- practice lab url (2 servers) - https://www.katacoda.com/ncodeit/scenarios/ncd-udemy-linux-course-2hosts
 # Environment & Around you 
 ```
 id						# identity of the user
