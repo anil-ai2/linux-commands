@@ -1,6 +1,13 @@
 - This link of Linux commands are part of Udemy course [100 Linux commands for everyone to manage Linux environments](https://www.ncodeit.com)
 - __practice lab url (single server)__ - https://www.katacoda.com/ncodeit/scenarios/ncd-custom-ubuntu1804
 - __practice lab url (2 servers)__ - https://www.katacoda.com/ncodeit/scenarios/ncd-udemy-linux-course-2hosts
+### download the sample files used in the exercises first
+- some of the commands in the exercises will use sample files. These sample files are in the git repository. Clone the git repo first to the local env
+- Launch __practice lab url (single server)__ or __practice lab url (2 servers)__
+- clone the repository from github to local linux 
+```
+git clone https://github.com/ncodeit-io/linux-commands.git
+```
 # Environment & Around you 
 ```
 id						# identity of the user
