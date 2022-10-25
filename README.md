@@ -1,6 +1,6 @@
 - This link of Linux commands are part of Udemy course [75 Linux commands you ever need to work in Linux environment](https://www.udemy.com/course/75-linux-commands-you-ever-need-to-work-in-linux-environment/learn/)
 - __practice lab url (single server)__ - https://killercoda.com/ncodeit/scenario/ncd-udemy-linux-course
-- __practice lab url (2 servers)__ - https://www.katacoda.com/ncodeit/scenarios/ncd-udemy-linux-course-2hosts
+- __practice lab url (2 servers)__ - https://killercoda.com/ncodeit/scenario/ncd-udemy-linux-course-2hosts
 ### download the sample files used in the exercises first
 - some of the commands in the exercises will use sample files. These sample files are in the git repository. Clone the git repo first to the local env
 	- Launch __practice lab url (single server)__ or __practice lab url (2 servers)__
